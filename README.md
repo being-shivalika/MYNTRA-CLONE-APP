@@ -46,7 +46,9 @@ Final amount
 Remove item from bag
 Empty bag state handling
 Responsive layout similar to Myntra UI
-<img width="1920" height="1080" alt="Screenshot 2025-12-30 182821" src="https://github.com/user-attachments/assets/df377dd3-b13b-4aa4-90b2-fd364b021ad2" />
-<img width="1920" height="1032" alt="Screenshot 2025-12-30 182856" src="https://github.com/user-attachments/assets/550db7c2-28c9-4f0c-b0ec-e12e73ff367d" />
-<img width="1920" height="1032" alt="Screenshot 2025-12-30 182922" src="https://github.com/user-attachments/assets/85ad94ef-b756-4f9d-9d96-f45560478a6f" />
+<img width="1920" height="953" alt="Screenshot 2025-12-30 182821" src="https://github.com/user-attachments/assets/c46aec20-b0f9-4936-aefb-0d9df270ca01" />
+<img width="1920" height="939" alt="Screenshot 2025-12-30 182856" src="https://github.com/user-attachments/assets/b70a1910-f3f3-4abc-9414-bfada16ce3f8" />
+<img width="1920" height="955" alt="Screenshot 2025-12-30 182922" src="https://github.com/user-attachments/assets/50d7ec4e-48ef-466d-bf8f-520b585eb7a5" />
+
+
 
