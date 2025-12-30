@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { itemsActions } from "../store/itemsSlice";
+import { itemsActions } from "../Store/itemsSlice";
 import { fetchStatusActions } from "../Store/fetchStatusSlice";
 
 const FetchItems = () => {
